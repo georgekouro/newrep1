@@ -12,7 +12,6 @@ Color = input('Input Color ')
 Part_of_the_Body = input('Input Part_of_the_Body ')
 Verb = input('Input Verb ')
 Number2 = input('Input Number2 ')
-
 Noun2 = input('Input Noun2 ')
 
 Noun3 = input('Input Noun3 ')
